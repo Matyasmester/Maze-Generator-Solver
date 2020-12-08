@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1607455840 source:x:\programozás\programozás\water sim\water simulation\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
